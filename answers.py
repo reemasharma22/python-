@@ -38,14 +38,16 @@ def four(string1, string2):
     string2 = (Cat)
     
     zipped = zip(string1, string2)
-    print(zipped)
+    return(zipped)
+
     
 
 
 #question5
 
 import random
-list = [random.randint(100,250)
+list = [random.randint(100,200)
+return = 1
 
 #question6
 
@@ -56,11 +58,7 @@ def six(string):
 
 #question7
 
-if(a==b&&b!=c||a==c&&c!=b||b==c&&c!=a){
-      return false;
-    }
-  return a-b==b-c||b-c==c-a||c-a==a-b;
-} 
+
 
 
 
